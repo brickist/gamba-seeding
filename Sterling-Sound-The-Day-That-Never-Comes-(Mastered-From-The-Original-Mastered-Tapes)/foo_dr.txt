@@ -1,0 +1,24 @@
+foobar2000 2.0 / Dynamic Range Meter 1.1.1
+log date: 2024-02-05 09:37:39
+
+--------------------------------------------------------------------------------
+Statistics for: 01-The Day That Never Comes
+Number of samples: 21003360
+Duration: 7:56 
+--------------------------------------------------------------------------------
+
+                 Left              Right
+
+Peak Value:      0.00 dB   ---      0.00 dB   
+Avg RMS:        -3.95 dB   ---     -3.95 dB   
+DR channel:      3.47 dB   ---      3.39 dB   
+--------------------------------------------------------------------------------
+
+Official DR Value: DR3
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1043 kbps
+Codec:             FLAC
+================================================================================
